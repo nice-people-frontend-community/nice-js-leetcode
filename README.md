@@ -4,3 +4,4 @@
 # 2022/5
 
 - [1.什么是二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/1) - 23/5/2022
+- [2.二叉树实操](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/2) - 24/5/2022
