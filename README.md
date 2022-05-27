@@ -41,7 +41,7 @@
 | github | 头像 | 奖励 👍 |
 | :---: | :---: | :---: |
 | [悠悠茶靡](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/58740404?v=4" width="100" align="middle" /> | ⭐🍬🍧 |
-| [我是哪吒](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 |
+| [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 |
 
 # 题目💯
 
