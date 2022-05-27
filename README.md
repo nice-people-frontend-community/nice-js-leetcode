@@ -17,6 +17,7 @@
 - [leetcode 15. 三数之和 #双指针](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/8) - ✅
 - [leetcode 32. 最长有效括号 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/6) - ✅
 - [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - ✅
+- [leetcode 122. 买卖股票的最佳时机 II #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - ✅
 
 # 专题
 
