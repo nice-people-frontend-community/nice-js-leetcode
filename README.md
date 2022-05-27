@@ -44,6 +44,8 @@
 
 # 题目💯
 
+- [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4)
+
 # 专题
 
 - [1.什么是二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/1) - ✅ - 悠悠茶靡🚀
