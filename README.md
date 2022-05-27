@@ -18,6 +18,7 @@
 - [leetcode 32. 最长有效括号 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/6) - ✅
 - [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - ✅
 - [leetcode 122. 买卖股票的最佳时机 II #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - ✅
+- [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - ✅
 
 # 专题
 
