@@ -12,7 +12,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [悠悠茶靡](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/58740404?v=4" width="100" align="middle" /> | ⭐🍬🍧 | [leetcode](https://leetcode.cn/u/dreamjean720/) -目前660 | 🚜 | 🐣 | |
 | [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/jeskson/) -目前176 | 🚴 | 🐣 | |
-| [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/ni-hao-a-pai-da-xing/) -目前256 | 🚜 | 🐣 | |
+| [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/ni-hao-a-pai-da-xing/) -目前256 | 🚴 | 🐣 | |
 
 
 # 题目💯
