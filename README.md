@@ -2,12 +2,34 @@
 
 好青年 | leetcode 今日事今日毕
 
+注意：
+1. 每周全勤或存在缺勤但是刷题数大于等于14的同学可以获得小星星。
+2. 离群航班会在每月一号启航，登机客户为上个月不曾打卡的同学，离群后可再次申请入群。
+
+新加入的朋友请在群中发送你的 leetcode ID 并 @你好啊派大星。 便于管理对刷题数的统计。
+
+>加入知识库链接：
+https://www.yuque.com/g/eurus/nkllon/collaborator/join?token=JQvNUEHwGVMPuUKx#
+
+> leetcode 刷题仓库
+https://github.com/nice-people-frontend-community/nice-js-leetcode
+
+> （强烈推荐学习路线）：
+https://programmercarl.com/
+https://labuladong.github.io/algo/
+
+>加入知识库之后快捷访问知识库的方法：
+https://www.yuque.com/eurus/nkllon/qgil9l
+
+>查看群理念、活动、分享、文件等资料：https://www.yuque.com/books/share/92c2f9eb-bb2e-4585-864f-f055248b2c62?#
+
 # 参与人
 
 | github | 头像 | 奖励 👍 | 完成题解 | 登场方式 | 成长 | 宠物 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [悠悠茶靡](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/58740404?v=4" width="100" align="middle" /> | ⭐🍬🍧 | [leetcode](https://leetcode.cn/u/dreamjean720/) -目前660 | 🚜 | 🐣 | |
 | [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/jeskson/) -目前176 | 🚴 | 🐣 | |
+| [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/ni-hao-a-pai-da-xing/) -目前256 |  | 🐣 | |
 
 
 # 题目💯
