@@ -24,8 +24,10 @@
 - [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - ✅
 - [leetcode 122. 买卖股票的最佳时机 II #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - ✅
 - [leetcode 123. 买卖股票的最佳时机 III #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/12) - ✅
+- [leetcode 188. 买卖股票的最佳时机 IV #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/13) - ✅
 - [leetcode 198.打家劫舍 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/11) - ✅
 - [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - ✅
+- [leetcode 714. 买卖股票的最佳时机含手续费 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/14) - ✅
 
 # 专题
 
