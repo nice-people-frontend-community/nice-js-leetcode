@@ -12,7 +12,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [悠悠茶靡](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/58740404?v=4" width="100" align="middle" /> | ⭐🍬🍧 | [leetcode](https://leetcode.cn/u/dreamjean720/) -目前660 | 🚜 | 🐣 | |
 | [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/jeskson/) -目前176 | 🚴 | 🐣 | |
-| [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/ni-hao-a-pai-da-xing/) -目前256 |  | 🐣 | |
+| [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/ni-hao-a-pai-da-xing/) -目前256 | 🚜 | 🐣 | |
 
 
 # 题目💯
@@ -44,7 +44,7 @@
 | 奖励 +10 | 🚩 | 题解奖励 |
 | 奖励 +100 | 👑 | 题解奖励 |
 | 单车出场 | 🚴 | leetcode 10 达成 |
-| 汽车出场 | 🚜 | leetcode 100 达成 |
+| 汽车出场 | 🚜 | leetcode 500 达成 |
 | 单车出场 | 🚁 | leetcode 1000 达成 |
 | 筋斗云出场 | 💫 | leetcode 2000 达成 |
 | leetcode(0-800) | 🐣 | 小鸡在成长 |
