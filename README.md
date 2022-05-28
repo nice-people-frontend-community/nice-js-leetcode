@@ -22,8 +22,10 @@
 - [leetcode 15. 三数之和 #双指针](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/8) - ✅
 - [leetcode 32. 最长有效括号 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/6) - ✅
 - [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - ✅
+- [leetcode 72. 编辑距离 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/15) - ✅
 - [leetcode 122. 买卖股票的最佳时机 II #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - ✅
 - [leetcode 123. 买卖股票的最佳时机 III #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/12) - ✅
+- [leetcode 139. 单词拆分 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/16) - ✅
 - [leetcode 188. 买卖股票的最佳时机 IV #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/13) - ✅
 - [leetcode 198.打家劫舍 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/11) - ✅
 - [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - ✅
