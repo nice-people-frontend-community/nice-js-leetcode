@@ -50,6 +50,7 @@
 - [leetcode 503.下一个更大元素 II #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/22) - ✅
 - [leetcode 714. 买卖股票的最佳时机含手续费 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/14) - ✅
 - [leetcode 735. 行星碰撞 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/24) - ✅
+- [leetcode 784. 字母大小写全排列 #回溯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/39) - ✅
 - [leetcode 1338. 数组大小减半 #贪心](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/33) - ✅
 - [leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目 #滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/27) - ✅
 
