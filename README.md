@@ -4,7 +4,7 @@
 
 写题模版：
 
-例如：leetcode 198.打家劫舍 #动态规划
+例如：leetcode 198.打家劫舍
 
 # 参与人
 
@@ -25,14 +25,19 @@
 - [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - ✅
 - [leetcode 46. 全排列 #回溯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/26) - ✅
 - [leetcode 47.全排列 II #回溯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/20) - ✅
+- [leetcode 62. 不同路径 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/34) - ✅
 - [leetcode 64. 最小路径和 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/28) - ✅
 - [leetcode 72. 编辑距离 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/15) - ✅
 - [leetcode 101. 对称二叉树 #树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/25) - ✅
 - [leetcode 122. 买卖股票的最佳时机 II #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - ✅
 - [leetcode 123. 买卖股票的最佳时机 III #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/12) - ✅
+- [leetcode 129. 求根节点到叶节点数字之和 #回溯&树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/35) - ✅
 - [leetcode 139. 单词拆分 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/16) - ✅
+- [leetcode-141 环形链表 #暴力破解法&快慢指针法](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/36) - ✅
+- [leetcode 142.环形链表II](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/37) - ✅
 - [leetcode 188. 买卖股票的最佳时机 IV #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/13) - ✅
 - [leetcode 198.打家劫舍 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/11) - ✅
+- [leetcode 202.快乐数](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/38) - ✅
 - [leetcode 220.存在重复元素III #滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/21) - ✅
 - [leetcode 300.最长递增子序列 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/19) - ✅
 - [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - ✅
