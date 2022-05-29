@@ -36,8 +36,12 @@
 - [leetcode 220.存在重复元素III #滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/21) - ✅
 - [leetcode 300.最长递增子序列 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/19) - ✅
 - [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - ✅
+- [leetcode 312. 戳气球 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/30) - ✅
 - [leetcode 316. 去除重复字母 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/17) - ✅
-- [leetcode 402.移掉K位数字 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/23)
+- [leetcode 322. 零钱兑换 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/29) - ✅
+- [leetcode 377. 组合总和 Ⅳ #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/31) - ✅
+- [leetcode 402.移掉K位数字 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/23) - ✅
+- [leetcode 413. 等差数列划分 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/32) - ✅
 - [leetcode 503.下一个更大元素 II #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/22) - ✅
 - [leetcode 714. 买卖股票的最佳时机含手续费 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/14) - ✅
 - [leetcode 735. 行星碰撞 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/24) - ✅
