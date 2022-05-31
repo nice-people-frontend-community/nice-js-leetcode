@@ -1,21 +1,59 @@
-# nice-js-leetcode
+# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> nice-js-leetcode  🎉🎉🎉 ༼ つ ◕_◕ ༽つ Please share
 
-好青年 | leetcode 今日事今日毕
+好青年 | leetcode 今日事今日毕，Leetcode 乐园开业啦，想拥有下面各种萌物吗？快来领取哦。🌈
 
-写题模版：
+🌟 写题模版 🌟：
 
 例如：leetcode 198.打家劫舍
 
-# 参与人
+## 💖 目的
+
+- 🎁 为了好玩、就是玩 ！
+- 💖 为了爱！
+- 🙂 算法是我们的朋友，请爱惜！
+- 🌏 我们只有一个世界！
+
+## 💄 如何领取？
+
+想要领取小萌物。完成自己定下的目标，同时原则上仅支持单人领取 **2 只** 小萌物，请大家谨慎挑选。一经挑选，请勿随意抛弃。谢谢大家！
+
+- ✅ 完成任务 
+- 🚀 某人带飞
+- ⭐ 奖励 +5 题解奖励
+- 🚩 奖励 +500 题解奖励
+- 👑 奖励 +1000 题解奖励
+
+# 🏆 获取图标
+
+<table>
+<tr>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349401?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75229308?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349718?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75229393?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75106065?s=200&v=4" width="50" /></td>
+</tr>
+<tr>
+  <td width="160" align="center">leetcode 10 达成<br />自行车</td>
+  <td width="160" align="center">leetcode 500 达成<br />摩托</td>
+  <td width="160" align="center">leetcode 1000<br />汽车</td>
+  <td width="160" align="center">leetcode 1500<br />火车</td>
+  <td width="160" align="center">leetcode 1800<br />游轮</td>
+  <td width="160" align="center">leetcode 2000<br />飞机</td>
+</tr>
+</table>
+
+# 参与人 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 | github | 头像 | 奖励 👍 | 完成题解 | 登场方式 | 成长 | 宠物 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [悠悠茶靡](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/58740404?v=4" width="100" align="middle" /> | ⭐🍬🍧 | [leetcode](https://leetcode.cn/u/dreamjean720/) -目前660 | 🚜 | 🐣 | |
-| [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/jeskson/) -目前176 | 🚴 | 🐣 | |
-| [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/ni-hao-a-pai-da-xing/) -目前256 | 🚴 | 🐣 | |
+| [悠悠茶靡](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/58740404?v=4" width="100" align="middle" /> | ⭐🍬🍧 | [leetcode](https://leetcode.cn/u/dreamjean720/) -目前660 | <img src="https://avatars0.githubusercontent.com/u/75349401?s=200&v=4" width="50" /> | 🐣 | |
+| [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/jeskson/) -目前176 | <img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /> | 🐣 | |
+| [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 | [leetcode](https://leetcode.cn/u/ni-hao-a-pai-da-xing/) -目前256 | <img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /> | 🐣 | |
 
 
-# 题目💯
+# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30"'> 题目💯
 
 - [leetcode 3. 无重复字符的最长子串 #滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/18) - ✅
 - [leetcode 5. 最长回文子串 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/7) - ✅
@@ -54,64 +92,61 @@
 - [leetcode 1338. 数组大小减半 #贪心](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/33) - ✅
 - [leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目 #滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/27) - ✅
 
-# 专题
+# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50"'> 专题
 
 - [1.什么是二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/1) - ✅ - 悠悠茶靡🚀
 - [2.二叉树实操](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/2) - ❎
 - [3.二叉树进阶](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/3) - ❎
 
 
-# 获取图标🏆
+### 小萌物 <kbd>80</kbd>
 
-| 标志 | 图标 | 说明 👍 |
-| :---: | :---: | :---: |
-| 完成 | ✅ | 完成任务 |
-| 带飞 | 🚀 | 某人带飞 |
-| 奖励 +5 | ⭐ | 题解奖励 |
-| 奖励 +10 | 🚩 | 题解奖励 |
-| 奖励 +100 | 👑 | 题解奖励 |
-| 单车出场 | 🚴 | leetcode 10 达成 |
-| 汽车出场 | 🚜 | leetcode 500 达成 |
-| 单车出场 | 🚁 | leetcode 1000 达成 |
-| 筋斗云出场 | 💫 | leetcode 2000 达成 |
-| leetcode(0-800) | 🐣 | 小鸡在成长 |
-| leetcode(800-1600) | 🐤 | 小鸡快速成长 |
-| leetcode(1600-2000) | 🐥 | 小鸡带飞 |
-
-# 目标达成奖品（题解）
-
-| 标志 | 图标 | 说明 👍 | 标志 | 图标 | 说明 👍 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 奖品 | 👟 | 鞋子       |  奖品 | 🖊 | 笔 |
-| 奖品 | 👕 | T恤        |  奖品 | 👓 | 眼镜 |
-| 奖品 | 👠 | 红色高跟鞋 |   奖品 | 👜 | 包包 |
-| 奖品 | 👗 | 连衣裙     |   奖品 | 💎 | 水晶钻石 
-| 宠物 | 🦢 | 天鹅       |   宠物 | 🐄 | 奶牛 |
-| 宠物 | 🐇 | 兔子       |   宠物 | 🐘 | 大象 |
-| 宠物 | 🐿️ | 松鼠       |   宠物 | 🐎 | 马匹 |
-
-
-## 注意：
-
-1. 每周全勤或存在缺勤但是刷题数大于等于14的同学可以获得小星星。
-2. 离群航班会在每月一号启航，登机客户为上个月不曾打卡的同学，离群后可再次申请入群。
-
-新加入的朋友请在群中发送你的 leetcode ID 并 @你好啊派大星。 便于管理对刷题数的统计。
-
->加入知识库链接：
-https://www.yuque.com/g/eurus/nkllon/collaborator/join?token=JQvNUEHwGVMPuUKx#
-
-> leetcode 刷题仓库
-https://github.com/nice-people-frontend-community/nice-js-leetcode
-
-> （强烈推荐学习路线）：
-https://programmercarl.com/
-https://labuladong.github.io/algo/
-
->加入知识库之后快捷访问知识库的方法：
-https://www.yuque.com/eurus/nkllon/qgil9l
-
->查看群理念、活动、分享、文件等资料：https://www.yuque.com/books/share/92c2f9eb-bb2e-4585-864f-f055248b2c62?#
+<table>
+<tr>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70750582?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/72658591?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70750798?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752846?s=200&v=4" width="50" /></td>
+</tr>
+<tr>
+  <td width="160" align="center">alpaca<br />羊驼</td>
+  <td width="160" align="center">bear<br />熊</td>
+  <td width="160" align="center">cat<br />猫</td>
+  <td width="160" align="center">butterfly<br />蝴蝶</td>
+  <td width="160" align="center">dinosaur<br />恐龙</td>
+</tr>
+ 
+ <tr>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752397?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70757575?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70751211?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/71747962?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783522?s=200&v=4" width="50" /></td>
+</tr>
+<tr>
+  <td width="160" align="center">camel<br />骆驼</td>
+  <td width="160" align="center">canary<br />金丝雀</td>
+  <td width="160" align="center">cattle<br />牛</td>
+  <td width="160" align="center">flamingo<br />火烈鸟</td>
+  <td width="160" align="center">dolphin<br />海豚</td>
+</tr>
+ 
+<tr>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70750089?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783073?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783423?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752793?s=200&v=4" width="50" /></td>
+  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783302?s=200&v=4" width="50" /></td>
+</tr>
+<tr>
+  <td width="160" align="center">koala<br />考拉</td>
+  <td width="160" align="center">totoro<br />龙猫</td>
+  <td width="160" align="center">unicorn<br />独角兽</td>
+  <td width="160" align="center">whale<br />鲸鱼</td>
+  <td width="160" align="center">rabbit<br />兔子</td>
+</tr>
+</table>
 
 # 日志
 
