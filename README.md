@@ -35,12 +35,12 @@
   <td align="center"><img src="https://avatars0.githubusercontent.com/u/75106065?s=200&v=4" width="50" /></td>
 </tr>
 <tr>
-  <td width="160" align="center">leetcode 10 达成<br />自行车</td>
-  <td width="160" align="center">leetcode 500 达成<br />摩托</td>
-  <td width="160" align="center">leetcode 1000<br />汽车</td>
-  <td width="160" align="center">leetcode 1500<br />火车</td>
-  <td width="160" align="center">leetcode 1800<br />游轮</td>
-  <td width="160" align="center">leetcode 2000<br />飞机</td>
+  <td width="160" align="center">leetcode 10<br /></td>
+  <td width="160" align="center">leetcode 500<br /></td>
+  <td width="160" align="center">leetcode 1000<br /></td>
+  <td width="160" align="center">leetcode 1500<br /></td>
+  <td width="160" align="center">leetcode 1800<br /></td>
+  <td width="160" align="center">leetcode 2000<br /></td>
 </tr>
 </table>
 
