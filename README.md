@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> nice-js-leetcode  🎉🎉🎉 ༼ つ ◕_◕ ༽つ Please share
+# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> nice-js-leetcode  🎉🎉🎉  Please share
 
 好青年 | leetcode 今日事今日毕，Leetcode 乐园开业啦，想拥有下面各种萌物吗？快来领取哦。🌈
 
@@ -6,7 +6,7 @@
 
 例如：leetcode 198.打家劫舍
 
-## 💖 目的
+## 💖 目的 ༼ つ ◕_◕ ༽つ
 
 - 🎁 为了好玩、就是玩 ！
 - 💖 为了爱！
