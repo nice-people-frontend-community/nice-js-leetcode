@@ -30,7 +30,6 @@
   <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /></td>
   <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349401?s=200&v=4" width="50" /></td>
   <td align="center"><img src="https://avatars0.githubusercontent.com/u/75229308?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349718?s=200&v=4" width="50" /></td>
   <td align="center"><img src="https://avatars0.githubusercontent.com/u/75229393?s=200&v=4" width="50" /></td>
   <td align="center"><img src="https://avatars0.githubusercontent.com/u/75106065?s=200&v=4" width="50" /></td>
 </tr>
@@ -38,7 +37,6 @@
   <td width="160" align="center">leetcode 10<br /></td>
   <td width="160" align="center">leetcode 500<br /></td>
   <td width="160" align="center">leetcode 1000<br /></td>
-  <td width="160" align="center">leetcode 1500<br /></td>
   <td width="160" align="center">leetcode 1800<br /></td>
   <td width="160" align="center">leetcode 2000<br /></td>
 </tr>
