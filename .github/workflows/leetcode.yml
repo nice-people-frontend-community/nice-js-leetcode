@@ -1,0 +1,27 @@
+name: CI for leetcode
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 1 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository main branch
+        uses: actions/checkout@main 
+      - name: Setup Node.js 14.x 
+        uses: actions/setup-node@main
+        with:
+          node-version: "14.x"
+
+      - name: run _leetcode.js
+        env:
+          TOKEN_GITHUBAPI: ${{ secrets.TOKEN_GITHUBAPI }}
+        run: |
+          npm install
+          node _leetcode.js --GITHUB_TOKEN=${{ secrets.TOKEN_GITHUBAPI }}
