@@ -2,6 +2,14 @@
 
 好青年 | leetcode 今日事今日毕，Leetcode 乐园开业啦，想拥有下面各种萌物吗？快来领取哦。🌈
 
+# 加入
+
+|微信（冴羽本人）|
+|:----:|
+|<img src="https://user-images.githubusercontent.com/11458263/156172823-5af1316e-2a3e-4f48-9908-682a74adb540.jpeg" width="120">|
+|mqyqingfeng|
+|好青年-leetcode打卡群|
+
 🌟 写题模版 🌟：
 
 例如：leetcode 198.打家劫舍
