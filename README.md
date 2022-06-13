@@ -50,8 +50,23 @@
 | [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 |  [<img  style="margin: 10px" height="210px" width="48%" src="https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn) | <img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /> | 🐣 | |
 | [你好啊派大星](https://github.com/Anonymity94) | <img src="https://avatars.githubusercontent.com/u/13148447?v=4" width="100" align="middle" /> | ⭐🍧 |  [<img  style="margin: 10px" height="210px" width="48%" src="https://leetcard.jacoblin.cool/ni-hao-a-pai-da-xing?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/ni-hao-a-pai-da-xing?theme=unicorn&site=cn) | <img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /> | 🐣 | |
 
+# 每日一题
 
-# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30"'> 题目💯
+- [2022-06-01](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/41)473. 火柴拼正方形👋位运算👋数组👋动态规划👋回溯👋状态压缩
+- [2022-06-02](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/42)450. 删除二叉搜索树中的节点👋树👋二叉搜索树👋二叉树
+- [2022-06-03](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/43)856. 连续整数求和👋数学👋枚举
+- [2022-06-04](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/44)965. 独特的电子邮件地址👋数组👋哈希表👋字符串
+- [2022-06-05](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/45)915. 在圆内随机生成点👋几何👋数学👋拒绝采样👋随机化
+- [2022-06-06](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/46)732. 我的日程安排表 III👋设计👋线段树👋有序集合
+- [2022-06-07](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/47)907. 爱吃香蕉的珂珂👋数组👋二分查找
+- [2022-06-08](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/48)1115. 有效的回旋镖👋几何👋数组👋数学
+- [2022-06-09](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/49)914. 非重叠矩形中的随机点👋水塘抽样👋数学👋二分查找👋有序集合👋前缀和👋随机化
+- [2022-06-10](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/50)730. 统计不同回文子序列👋字符串👋动态规划
+- [2022-06-11](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/51)962. 将字符串翻转到单调递增👋字符串👋动态规划
+- [2022-06-12](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/52)926. 查找和替换模式👋数组👋哈希表👋字符串
+- [2022-06-13](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/53)1137. 高度检查器👋数组👋计数排序👋排序
+
+# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 题目💯
 
 - [leetcode 3. 无重复字符的最长子串 #滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/18) - ✅
 - [leetcode 5. 最长回文子串 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/7) - ✅
@@ -90,7 +105,7 @@
 - [leetcode 1338. 数组大小减半 #贪心](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/33) - ✅
 - [leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目 #滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/27) - ✅
 
-# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50"'> 专题
+# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'> 专题
 
 - [1.什么是二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/1) - ✅ - 悠悠茶靡🚀
 - [2.二叉树实操](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/2) - ❎
@@ -148,5 +163,6 @@
 
 # 日志
 
+- 悠悠茶靡连续题解5道，获得5元奖励 - ✅
 - LeetCode每日一题至issues - ✅
 - 仓库建立于农历4月23号 - ✅
