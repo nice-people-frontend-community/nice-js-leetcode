@@ -1,6 +1,9 @@
 name: CI for leetcode
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 0 * * *'
 
