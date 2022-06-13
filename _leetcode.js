@@ -1,4 +1,3 @@
-
 const axios = require('axios')
 const yargs = require('yargs')
 
@@ -55,8 +54,7 @@ async function Main() {
     return Promise.reject('Some Error')
   }
 }
-//leetcode_data.question.questionId +
-//'. ' +
+
 function leetcode_fun() {
   return new Promise((resolve, reject) => {
     // leetcode请求数据
@@ -74,10 +72,11 @@ function leetcode_fun() {
           '[' +
           leetcode_data.date +
           ']' +
+          leetcode_data.question.questionFrontendId +
+          '. ' +
           leetcode_data.question.titleCn +
           labels_title
         content_body =
-          '题目' + leetcode_data.question.titleCn
           '题目链接: https://leetcode-cn.com/problems/' +
           leetcode_data.question.titleSlug +
           '\n\n难度: <code>' +
@@ -101,9 +100,7 @@ function github_fun() {
           owner: 'nice-people-frontend-community',
           repo: 'nice-js-leetcode',
           assignees: ['nice-people-frontend-community'],
-          title: 
-          
-          ,
+          title: content_title,
           body: content_body,
           labels: ['LeetCode每日一题'],
         }
