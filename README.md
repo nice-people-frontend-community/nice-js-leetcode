@@ -55,23 +55,23 @@
   - [leetcode 47.全排列 II #回溯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/20) - ✅
   - [leetcode 784. 字母大小写全排列 #回溯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/39) - ✅
  * 动态规划
-  - [leetcode 5. 最长回文子串 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/7) - ✅
-  - [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - ✅
-  - [leetcode 62. 不同路径 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/34) - ✅
-  - [leetcode 64. 最小路径和 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/28) - ✅
-  - [leetcode 72. 编辑距离 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/15) - ✅
-  - [leetcode 122. 买卖股票的最佳时机 II #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - ✅
-  - [leetcode 123. 买卖股票的最佳时机 III #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/12) - ✅
-  - [leetcode 139. 单词拆分 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/16) - ✅
-  - [leetcode 188. 买卖股票的最佳时机 IV #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/13) - ✅
-  - [leetcode 198.打家劫舍 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/11) - ✅
-  - [leetcode 300.最长递增子序列 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/19) - ✅
-  - [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - ✅
-  - [leetcode 312. 戳气球 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/30) - ✅
-  - [leetcode 322. 零钱兑换 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/29) - ✅
-  - [leetcode 377. 组合总和 Ⅳ #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/31) - ✅
-  - [leetcode 413. 等差数列划分 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/32) - ✅
-  - [leetcode 714. 买卖股票的最佳时机含手续费 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/14) - ✅
+    - [leetcode 5. 最长回文子串 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/7) - ✅
+    - [leetcode 42. 接雨水 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - ✅
+    - [leetcode 62. 不同路径 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/34) - ✅
+    - [leetcode 64. 最小路径和 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/28) - ✅
+    - [leetcode 72. 编辑距离 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/15) - ✅
+    - [leetcode 122. 买卖股票的最佳时机 II #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - ✅
+    - [leetcode 123. 买卖股票的最佳时机 III #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/12) - ✅
+    - [leetcode 139. 单词拆分 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/16) - ✅
+    - [leetcode 188. 买卖股票的最佳时机 IV #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/13) - ✅
+    - [leetcode 198.打家劫舍 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/11) - ✅
+    - [leetcode 300.最长递增子序列 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/19) - ✅
+    - [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - ✅
+    - [leetcode 312. 戳气球 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/30) - ✅
+    - [leetcode 322. 零钱兑换 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/29) - ✅
+    - [leetcode 377. 组合总和 Ⅳ #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/31) - ✅
+    - [leetcode 413. 等差数列划分 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/32) - ✅
+    - [leetcode 714. 买卖股票的最佳时机含手续费 #动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/14) - ✅
 * 贪心
   - [leetcode 1338. 数组大小减半 #贪心](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/33) - ✅
 
