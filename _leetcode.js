@@ -37,6 +37,7 @@ service.interceptors.response.use(
   }
 )
 // leetcode接口
+//"query questionOfToday { todayRecord {   question {     questionFrontendId     questionTitleSlug     __typename   }   lastSubmission {     id     __typename   }   date   userStatus   __typename }}"
 let body = {
   query:
     '\n    query questionOfToday {\n  todayRecord {\n    date\n    userStatus\n    question {\n      questionId\n      frontendQuestionId: questionFrontendId\n      difficulty\n      title\n      titleCn: translatedTitle\n      titleSlug\n      paidOnly: isPaidOnly\n      freqBar\n      isFavor\n      acRate\n      status\n      solutionNum\n      hasVideoSolution\n      topicTags {\n        name\n        nameTranslated: translatedName\n        id\n      }\n      extra {\n        topCompanyTags {\n          imgUrl\n          slug\n          numSubscribed\n        }\n      }\n    }\n    lastSubmission {\n      id\n    }\n  }\n}\n    ',
@@ -72,11 +73,13 @@ function leetcode_fun() {
           '[' +
           leetcode_data.date +
           ']' +
-          leetcode_data.question.questionFrontendId +
+          '题号' +
+          leetcode_data.question.frontendQuestionId +
           '. ' +
           leetcode_data.question.titleCn +
           labels_title
         content_body =
+          content_title + '\n' +
           '题目链接: https://leetcode-cn.com/problems/' +
           leetcode_data.question.titleSlug +
           '\n\n难度: <code>' +
