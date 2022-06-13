@@ -2,14 +2,6 @@
 
 好青年 | leetcode 今日事今日毕，Leetcode 乐园开业啦，想拥有下面各种萌物吗？快来领取哦。🌈
 
-# 加入
-
-|微信（冴羽本人）|
-|:----:|
-|<img src="https://user-images.githubusercontent.com/11458263/156172823-5af1316e-2a3e-4f48-9908-682a74adb540.jpeg" width="120">|
-|mqyqingfeng|
-|好青年-leetcode打卡群|
-
 🌟 写题模版 🌟：
 
 例如：leetcode 198.打家劫舍
@@ -20,43 +12,6 @@
 - 💖 为了爱！
 - 🙂 算法是我们的朋友，请爱惜！
 - 🌏 我们只有一个世界！
-
-## 💄 如何领取？
-
-想要领取小萌物。完成自己定下的目标，同时原则上仅支持单人领取 **2 只** 小萌物，请大家谨慎挑选。一经挑选，请勿随意抛弃。谢谢大家！
-
-- ✅ 完成任务 
-- 🚀 某人带飞
-- ⭐ 奖励 +5 题解奖励
-- 🚩 奖励 +500 题解奖励
-- 👑 奖励 +1000 题解奖励
-
-# 🏆 获取图标
-
-<table>
-<tr>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75349401?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75229308?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75229393?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/75106065?s=200&v=4" width="50" /></td>
-</tr>
-<tr>
-  <td width="160" align="center">leetcode 10<br /></td>
-  <td width="160" align="center">leetcode 500<br /></td>
-  <td width="160" align="center">leetcode 1000<br /></td>
-  <td width="160" align="center">leetcode 1800<br /></td>
-  <td width="160" align="center">leetcode 2000<br /></td>
-</tr>
-</table>
-
-# 参与人 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-
-| github | 头像 | 奖励 👍 | 完成题解 | 登场方式 | 成长 | 宠物 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [悠悠茶靡](https://github.com/dreamjean) | <img src="https://avatars.githubusercontent.com/u/58740404?v=4" width="100" align="middle" /> | ⭐🍬🍧 |  [<img  style="margin: 10px" height="210px" width="58%" src="https://leetcard.jacoblin.cool/dreamjean720?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/dreamjean720?theme=unicorn&site=cn) | <img src="https://avatars0.githubusercontent.com/u/75349401?s=200&v=4" width="50" /> | 🐣 | |
-| [我是哪吒](https://github.com/webVueBlog) | <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="100" align="middle" /> | ⭐🍧 |  [<img  style="margin: 10px" height="210px" width="58%" src="https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn) | <img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /> | 🐣 | |
-
 
 # 每日一题
 
@@ -120,57 +75,7 @@
 - [3.二叉树进阶](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/3) - ❎
 
 
-### 小萌物 <kbd>80</kbd>
-
-<table>
-<tr>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70750582?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/72658591?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70750798?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752846?s=200&v=4" width="50" /></td>
-</tr>
-<tr>
-  <td width="160" align="center">alpaca<br />羊驼</td>
-  <td width="160" align="center">bear<br />熊</td>
-  <td width="160" align="center">cat<br />猫</td>
-  <td width="160" align="center">butterfly<br />蝴蝶</td>
-  <td width="160" align="center">dinosaur<br />恐龙</td>
-</tr>
- 
- <tr>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752397?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70757575?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70751211?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/71747962?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783522?s=200&v=4" width="50" /></td>
-</tr>
-<tr>
-  <td width="160" align="center">camel<br />骆驼</td>
-  <td width="160" align="center">canary<br />金丝雀</td>
-  <td width="160" align="center">cattle<br />牛</td>
-  <td width="160" align="center">flamingo<br />火烈鸟</td>
-  <td width="160" align="center">dolphin<br />海豚</td>
-</tr>
- 
-<tr>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70750089?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783073?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783423?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70752793?s=200&v=4" width="50" /></td>
-  <td align="center"><img src="https://avatars0.githubusercontent.com/u/70783302?s=200&v=4" width="50" /></td>
-</tr>
-<tr>
-  <td width="160" align="center">koala<br />考拉</td>
-  <td width="160" align="center">totoro<br />龙猫</td>
-  <td width="160" align="center">unicorn<br />独角兽</td>
-  <td width="160" align="center">whale<br />鲸鱼</td>
-  <td width="160" align="center">rabbit<br />兔子</td>
-</tr>
-</table>
-
 # 日志
 
-- 悠悠茶靡连续题解5道，获得5元奖励 - ✅
 - LeetCode每日一题至issues - ✅
 - 仓库建立于农历4月23号 - ✅
