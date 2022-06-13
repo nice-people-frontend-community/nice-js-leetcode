@@ -73,7 +73,6 @@ function leetcode_fun() {
           '[' +
           leetcode_data.date +
           ']' +
-          '题号' +
           leetcode_data.question.frontendQuestionId +
           '. ' +
           leetcode_data.question.titleCn +
