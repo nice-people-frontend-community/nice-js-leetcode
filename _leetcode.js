@@ -78,7 +78,6 @@ function leetcode_fun() {
           leetcode_data.question.titleCn +
           labels_title
         content_body =
-          content_title + '\n' +
           '题目链接: https://leetcode-cn.com/problems/' +
           leetcode_data.question.titleSlug +
           '\n\n难度: <code>' +
