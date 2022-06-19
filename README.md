@@ -6,7 +6,7 @@
 
 ## Stars 趋势
 
-<a href="https://github.com/nice-people-frontend-community/nice-js-leetcode/stargazers" target="_blank"><img src="./images/starcharts.svg" alt="Stargazers over time" /></a>
+<a href="https://github.com/nice-people-frontend-community/nice-js-leetcode/stargazers" target="_blank"><img src="https://starchart.cc/nice-people-frontend-community/nice-js-leetcode.svg" alt="Stargazers over time" /></a>
 
 🌟 写题模版 🌟：
 
