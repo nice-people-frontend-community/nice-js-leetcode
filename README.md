@@ -1,6 +1,12 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> nice-js-leetcode  🎉🎉🎉  Please share
 
+本项目包含 LeetCode、每日一题 等题目的相关题解。所有题解均由 JavaScript 日常更新。欢迎 Star 🌟 关注[本项目](https://github.com/nice-people-frontend-community/nice-js-leetcode)，获取项目最新动态。
+
 好青年 | leetcode 今日事今日毕，Leetcode 乐园开业啦🌈
+
+## Stars 趋势
+
+<a href="https://github.com/nice-people-frontend-community/nice-js-leetcode/stargazers" target="_blank"><img src="./images/starcharts.svg" alt="Stargazers over time" /></a>
 
 🌟 写题模版 🌟：
 
@@ -87,6 +93,15 @@
 - [2.二叉树实操](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/2) - ❎
 - [3.二叉树进阶](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/3) - ❎
 
+# 贡献者
+
+感谢以下所有朋友对本项目的贡献！
+
+# 赞助者
+
+感谢以下个人、组织对本项目的支持和赞助！
+
+> "You help the developer community practice for interviews, and there is nothing better we could ask for." -- Alan Yessenbayev
 
 # 日志
 
