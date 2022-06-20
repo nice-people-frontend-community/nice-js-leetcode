@@ -1,114 +1,114 @@
 # nice-js-leetcode
 
-> µã»÷¿±Îó[issues]()£¬¸ĞĞ»´ó¼ÒµÄÔÄ¶Á
+> ç‚¹å‡»å‹˜è¯¯[issues](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues)ï¼Œæ„Ÿè°¢å¤§å®¶çš„é˜…è¯»
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> nice-js-leetcode    Please share
+# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> nice-js-leetcode  ğŸ‰ğŸ‰ğŸ‰  Please share
 
-±¾ÏîÄ¿°üº¬ LeetCode¡¢Ã¿ÈÕÒ»Ìâ µÈÌâÄ¿µÄÏà¹ØÌâ½â¡£ËùÓĞÌâ½â¾ùÓÉ JavaScript ÈÕ³£¸üĞÂ¡£»¶Ó­ Star  ¹Ø×¢[±¾ÏîÄ¿](https://github.com/nice-people-frontend-community/nice-js-leetcode)£¬»ñÈ¡ÏîÄ¿×îĞÂ¶¯Ì¬¡£
+æœ¬é¡¹ç›®åŒ…å« LeetCodeã€æ¯æ—¥ä¸€é¢˜ ç­‰é¢˜ç›®çš„ç›¸å…³é¢˜è§£ã€‚æ‰€æœ‰é¢˜è§£å‡ç”± JavaScript æ—¥å¸¸æ›´æ–°ã€‚æ¬¢è¿ Star ğŸŒŸ å…³æ³¨[æœ¬é¡¹ç›®](https://github.com/nice-people-frontend-community/nice-js-leetcode)ï¼Œè·å–é¡¹ç›®æœ€æ–°åŠ¨æ€ã€‚
 
-ºÃÇàÄê | leetcode ½ñÈÕÊÂ½ñÈÕ±Ï£¬Leetcode ÀÖÔ°¿ªÒµÀ²
+å¥½é’å¹´ | leetcode ä»Šæ—¥äº‹ä»Šæ—¥æ¯•ï¼ŒLeetcode ä¹å›­å¼€ä¸šå•¦ğŸŒˆ
 
-## Stars Ç÷ÊÆ
+## Stars è¶‹åŠ¿
 
 <a href="https://github.com/nice-people-frontend-community/nice-js-leetcode/stargazers" target="_blank"><img src="https://starchart.cc/nice-people-frontend-community/nice-js-leetcode.svg" alt="Stargazers over time" /></a>
 
- Ğ´ÌâÄ£°æ £º
+ğŸŒŸ å†™é¢˜æ¨¡ç‰ˆ ğŸŒŸï¼š
 
-ÀıÈç£ºleetcode 198.´ò¼Ò½ÙÉá
+ä¾‹å¦‚ï¼šleetcode 198.æ‰“å®¶åŠ«èˆ
 
-##  Ä¿µÄ  ¤Ä _ ¤Ä
+## ğŸ’– ç›®çš„ à¼¼ ã¤ â—•_â—• à¼½ã¤
 
--  ÎªÁËºÃÍæ¡¢¾ÍÊÇÍæ £¡
--  ÎªÁË°®£¡
--  Ëã·¨ÊÇÎÒÃÇµÄÅóÓÑ£¬Çë°®Ï§£¡
--  ÎÒÃÇÖ»ÓĞÒ»¸öÊÀ½ç£¡
+- ğŸ ä¸ºäº†å¥½ç©ã€å°±æ˜¯ç© ï¼
+- ğŸ’– ä¸ºäº†çˆ±ï¼
+- ğŸ™‚ ç®—æ³•æ˜¯æˆ‘ä»¬çš„æœ‹å‹ï¼Œè¯·çˆ±æƒœï¼
+- ğŸŒ æˆ‘ä»¬åªæœ‰ä¸€ä¸ªä¸–ç•Œï¼
 
-# ±¾ÔÂÃ¿ÈÕÒ»Ìâ
+# â­ æœ¬æœˆæ¯æ—¥ä¸€é¢˜
 
-- [2022-06-01 473.»ğ²ñÆ´Õı·½ĞÎÎ»ÔËËãÊı×é¶¯Ì¬¹æ»®»ØËİ×´Ì¬Ñ¹Ëõ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/41)
-- [2022-06-02 450.É¾³ı¶ş²æËÑË÷Ê÷ÖĞµÄ½ÚµãÊ÷¶ş²æËÑË÷Ê÷¶ş²æÊ÷](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/42)
-- [2022-06-03 856.Á¬ĞøÕûÊıÇóºÍÊıÑ§Ã¶¾Ù](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/43)
-- [2022-06-04 965.¶ÀÌØµÄµç×ÓÓÊ¼şµØÖ·Êı×é¹şÏ£±í×Ö·û´®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/45)
-- [2022-06-05 915.ÔÚÔ²ÄÚËæ»úÉú³Éµã¼¸ºÎÊıÑ§¾Ü¾ø²ÉÑùËæ»ú»¯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/46)
-- [2022-06-06 732.ÎÒµÄÈÕ³Ì°²ÅÅ±í IIIÉè¼ÆÏß¶ÎÊ÷ÓĞĞò¼¯ºÏ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/47)
-- [2022-06-07 907.°®³ÔÏã½¶µÄçæçæÊı×é¶ş·Ö²éÕÒ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/48)
-- [2022-06-08 1115.ÓĞĞ§µÄ»ØĞıïÚ¼¸ºÎÊı×éÊıÑ§](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/49)
-- [2022-06-09 914.·ÇÖØµş¾ØĞÎÖĞµÄËæ»úµãË®ÌÁ³éÑùÊıÑ§¶ş·Ö²éÕÒÓĞĞò¼¯ºÏÇ°×ººÍËæ»ú»¯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/50)
-- [2022-06-10 730.Í³¼Æ²»Í¬»ØÎÄ×ÓĞòÁĞ×Ö·û´®¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/51)
-- [2022-06-11 962.½«×Ö·û´®·­×ªµ½µ¥µ÷µİÔö×Ö·û´®¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/52)
-- [2022-06-12 926.²éÕÒºÍÌæ»»Ä£Ê½Êı×é¹şÏ£±í×Ö·û´®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/53)
-- [2022-06-13 1051.¸ß¶È¼ì²éÆ÷Êı×é¼ÆÊıÅÅĞòÅÅĞò](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/54)
-- [2022-06-14 498.¶Ô½ÇÏß±éÀúÊı×é¾ØÕóÄ£Äâ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/61)
-- [2022-06-15 719.ÕÒ³öµÚ K Ğ¡µÄÊı¶Ô¾àÀëÊı×éË«Ö¸Õë¶ş·Ö²éÕÒÅÅĞò](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/62)
-- [2022-06-16 532.Êı×éÖĞµÄ k-diff Êı¶ÔÊı×é¹şÏ£±íË«Ö¸Õë¶ş·Ö²éÕÒÅÅĞò](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/63)
-- [2022-06-17 1089.¸´Ğ´ÁãÊı×éË«Ö¸Õë](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/64)
-- [2022-06-18 ½£Ö¸ Offer II 029.ÅÅĞòµÄÑ­»·Á´±íÁ´±í](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/65)
-- [2022-06-19 508.³öÏÖ´ÎÊı×î¶àµÄ×ÓÊ÷ÔªËØºÍÊ÷Éî¶ÈÓÅÏÈËÑË÷¹şÏ£±í¶ş²æÊ÷](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/66)
+- [2022-06-01 473.ç«æŸ´æ‹¼æ­£æ–¹å½¢ğŸ‘‹ä½è¿ç®—ğŸ‘‹æ•°ç»„ğŸ‘‹åŠ¨æ€è§„åˆ’ğŸ‘‹å›æº¯ğŸ‘‹çŠ¶æ€å‹ç¼©](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/41)
+- [2022-06-02 450.åˆ é™¤äºŒå‰æœç´¢æ ‘ä¸­çš„èŠ‚ç‚¹ğŸ‘‹æ ‘ğŸ‘‹äºŒå‰æœç´¢æ ‘ğŸ‘‹äºŒå‰æ ‘](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/42)
+- [2022-06-03 856.è¿ç»­æ•´æ•°æ±‚å’ŒğŸ‘‹æ•°å­¦ğŸ‘‹æšä¸¾](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/43)
+- [2022-06-04 965.ç‹¬ç‰¹çš„ç”µå­é‚®ä»¶åœ°å€ğŸ‘‹æ•°ç»„ğŸ‘‹å“ˆå¸Œè¡¨ğŸ‘‹å­—ç¬¦ä¸²](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/45)
+- [2022-06-05 915.åœ¨åœ†å†…éšæœºç”Ÿæˆç‚¹ğŸ‘‹å‡ ä½•ğŸ‘‹æ•°å­¦ğŸ‘‹æ‹’ç»é‡‡æ ·ğŸ‘‹éšæœºåŒ–](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/46)
+- [2022-06-06 732.æˆ‘çš„æ—¥ç¨‹å®‰æ’è¡¨ IIIğŸ‘‹è®¾è®¡ğŸ‘‹çº¿æ®µæ ‘ğŸ‘‹æœ‰åºé›†åˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/47)
+- [2022-06-07 907.çˆ±åƒé¦™è•‰çš„ç‚ç‚ğŸ‘‹æ•°ç»„ğŸ‘‹äºŒåˆ†æŸ¥æ‰¾](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/48)
+- [2022-06-08 1115.æœ‰æ•ˆçš„å›æ—‹é•–ğŸ‘‹å‡ ä½•ğŸ‘‹æ•°ç»„ğŸ‘‹æ•°å­¦](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/49)
+- [2022-06-09 914.éé‡å çŸ©å½¢ä¸­çš„éšæœºç‚¹ğŸ‘‹æ°´å¡˜æŠ½æ ·ğŸ‘‹æ•°å­¦ğŸ‘‹äºŒåˆ†æŸ¥æ‰¾ğŸ‘‹æœ‰åºé›†åˆğŸ‘‹å‰ç¼€å’ŒğŸ‘‹éšæœºåŒ–](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/50)
+- [2022-06-10 730.ç»Ÿè®¡ä¸åŒå›æ–‡å­åºåˆ—ğŸ‘‹å­—ç¬¦ä¸²ğŸ‘‹åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/51)
+- [2022-06-11 962.å°†å­—ç¬¦ä¸²ç¿»è½¬åˆ°å•è°ƒé€’å¢ğŸ‘‹å­—ç¬¦ä¸²ğŸ‘‹åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/52)
+- [2022-06-12 926.æŸ¥æ‰¾å’Œæ›¿æ¢æ¨¡å¼ğŸ‘‹æ•°ç»„ğŸ‘‹å“ˆå¸Œè¡¨ğŸ‘‹å­—ç¬¦ä¸²](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/53)
+- [2022-06-13 1051.é«˜åº¦æ£€æŸ¥å™¨ğŸ‘‹æ•°ç»„ğŸ‘‹è®¡æ•°æ’åºğŸ‘‹æ’åº](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/54)
+- [2022-06-14 498.å¯¹è§’çº¿éå†ğŸ‘‹æ•°ç»„ğŸ‘‹çŸ©é˜µğŸ‘‹æ¨¡æ‹Ÿ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/61)
+- [2022-06-15 719.æ‰¾å‡ºç¬¬ K å°çš„æ•°å¯¹è·ç¦»ğŸ‘‹æ•°ç»„ğŸ‘‹åŒæŒ‡é’ˆğŸ‘‹äºŒåˆ†æŸ¥æ‰¾ğŸ‘‹æ’åº](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/62)
+- [2022-06-16 532.æ•°ç»„ä¸­çš„ k-diff æ•°å¯¹ğŸ‘‹æ•°ç»„ğŸ‘‹å“ˆå¸Œè¡¨ğŸ‘‹åŒæŒ‡é’ˆğŸ‘‹äºŒåˆ†æŸ¥æ‰¾ğŸ‘‹æ’åº](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/63)
+- [2022-06-17 1089.å¤å†™é›¶ğŸ‘‹æ•°ç»„ğŸ‘‹åŒæŒ‡é’ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/64)
+- [2022-06-18 å‰‘æŒ‡ Offer II 029.æ’åºçš„å¾ªç¯é“¾è¡¨ğŸ‘‹é“¾è¡¨](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/65)
+- [2022-06-19 508.å‡ºç°æ¬¡æ•°æœ€å¤šçš„å­æ ‘å…ƒç´ å’ŒğŸ‘‹æ ‘ğŸ‘‹æ·±åº¦ä¼˜å…ˆæœç´¢ğŸ‘‹å“ˆå¸Œè¡¨ğŸ‘‹äºŒå‰æ ‘](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/66)
 
-#  ÌâÄ¿
+# ğŸ¬ é¢˜ç›®ğŸ’¯
 
-* Õ»
-  - [leetcode 32. ×î³¤ÓĞĞ§À¨ºÅ #Õ»](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/6) - 
-  - [leetcode 202.¿ìÀÖÊı](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/38) - 
-  - [leetcode 316. È¥³ıÖØ¸´×ÖÄ¸ #Õ»](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/17) - 
-  - [leetcode 402.ÒÆµôKÎ»Êı×Ö #Õ»](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/23) - 
-  - [leetcode 503.ÏÂÒ»¸ö¸ü´óÔªËØ II #Õ»](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/22) - 
-  - [leetcode 735. ĞĞĞÇÅö×² #Õ»](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/24) - 
-* Ë«Ö¸Õë
-  - [leetcode 11. Ê¢×î¶àË®µÄÈİÆ÷ #Ë«Ö¸Õë](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/5) - 
-  - [leetcode 15. ÈıÊıÖ®ºÍ #Ë«Ö¸Õë](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/8) - 
-  - [leetcode-141 »·ĞÎÁ´±í #±©Á¦ÆÆ½â·¨&¿ìÂıÖ¸Õë·¨](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/36) - 
-  - [leetcode 142.»·ĞÎÁ´±íII](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/37) - 
-* »¬¶¯´°¿Ú
-  - [leetcode 3. ÎŞÖØ¸´×Ö·ûµÄ×î³¤×Ó´® #»¬¶¯´°¿Ú](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/18) - 
-  - [leetcode 220.´æÔÚÖØ¸´ÔªËØIII #»¬¶¯´°¿Ú](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/21) - 
-  - [leetcode 1343. ´óĞ¡Îª K ÇÒÆ½¾ùÖµ´óÓÚµÈÓÚãĞÖµµÄ×ÓÊı×éÊıÄ¿ #»¬¶¯´°¿Ú](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/27) - 
-* Ê÷ 
-  - [leetcode 101. ¶Ô³Æ¶ş²æÊ÷ #Ê÷](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/25) - 
-  - [leetcode 129. Çó¸ù½Úµãµ½Ò¶½ÚµãÊı×ÖÖ®ºÍ #»ØËİ&Ê÷](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/35) - 
-* »ØËİ
-  - [leetcode 46. È«ÅÅÁĞ #»ØËİ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/26) - 
-  - [leetcode 47.È«ÅÅÁĞ II #»ØËİ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/20) - 
-  - [leetcode 784. ×ÖÄ¸´óĞ¡Ğ´È«ÅÅÁĞ #»ØËİ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/39) - 
- * ¶¯Ì¬¹æ»®
-    - [leetcode 5. ×î³¤»ØÎÄ×Ó´® #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/7) - 
-    - [leetcode 42. ½ÓÓêË® #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - 
-    - [leetcode 62. ²»Í¬Â·¾¶ #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/34) - 
-    - [leetcode 64. ×îĞ¡Â·¾¶ºÍ #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/28) - 
-    - [leetcode 72. ±à¼­¾àÀë #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/15) - 
-    - [leetcode 122. ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú II #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - 
-    - [leetcode 123. ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú III #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/12) - 
-    - [leetcode 139. µ¥´Ê²ğ·Ö #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/16) - 
-    - [leetcode 188. ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú IV #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/13) - 
-    - [leetcode 198.´ò¼Ò½ÙÉá #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/11) - 
-    - [leetcode 300.×î³¤µİÔö×ÓĞòÁĞ #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/19) - 
-    - [leetcode 309. ×î¼ÑÂòÂô¹ÉÆ±Ê±»úº¬Àä¶³ÆÚ #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - 
-    - [leetcode 312. ´ÁÆøÇò #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/30) - 
-    - [leetcode 322. ÁãÇ®¶Ò»» #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/29) - 
-    - [leetcode 377. ×éºÏ×ÜºÍ ¢ô #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/31) - 
-    - [leetcode 413. µÈ²îÊıÁĞ»®·Ö #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/32) - 
-    - [leetcode 714. ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»úº¬ÊÖĞø·Ñ #¶¯Ì¬¹æ»®](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/14) - 
-* Ì°ĞÄ
-  - [leetcode 1338. Êı×é´óĞ¡¼õ°ë #Ì°ĞÄ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/33) - 
+* æ ˆ
+  - [leetcode 32. æœ€é•¿æœ‰æ•ˆæ‹¬å· #æ ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/6) - âœ…
+  - [leetcode 202.å¿«ä¹æ•°](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/38) - âœ…
+  - [leetcode 316. å»é™¤é‡å¤å­—æ¯ #æ ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/17) - âœ…
+  - [leetcode 402.ç§»æ‰Kä½æ•°å­— #æ ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/23) - âœ…
+  - [leetcode 503.ä¸‹ä¸€ä¸ªæ›´å¤§å…ƒç´  II #æ ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/22) - âœ…
+  - [leetcode 735. è¡Œæ˜Ÿç¢°æ’ #æ ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/24) - âœ…
+* åŒæŒ‡é’ˆ
+  - [leetcode 11. ç››æœ€å¤šæ°´çš„å®¹å™¨ #åŒæŒ‡é’ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/5) - âœ…
+  - [leetcode 15. ä¸‰æ•°ä¹‹å’Œ #åŒæŒ‡é’ˆ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/8) - âœ…
+  - [leetcode-141 ç¯å½¢é“¾è¡¨ #æš´åŠ›ç ´è§£æ³•&å¿«æ…¢æŒ‡é’ˆæ³•](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/36) - âœ…
+  - [leetcode 142.ç¯å½¢é“¾è¡¨II](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/37) - âœ…
+* æ»‘åŠ¨çª—å£
+  - [leetcode 3. æ— é‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸² #æ»‘åŠ¨çª—å£](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/18) - âœ…
+  - [leetcode 220.å­˜åœ¨é‡å¤å…ƒç´ III #æ»‘åŠ¨çª—å£](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/21) - âœ…
+  - [leetcode 1343. å¤§å°ä¸º K ä¸”å¹³å‡å€¼å¤§äºç­‰äºé˜ˆå€¼çš„å­æ•°ç»„æ•°ç›® #æ»‘åŠ¨çª—å£](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/27) - âœ…
+* æ ‘ 
+  - [leetcode 101. å¯¹ç§°äºŒå‰æ ‘ #æ ‘](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/25) - âœ…
+  - [leetcode 129. æ±‚æ ¹èŠ‚ç‚¹åˆ°å¶èŠ‚ç‚¹æ•°å­—ä¹‹å’Œ #å›æº¯&æ ‘](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/35) - âœ…
+* å›æº¯
+  - [leetcode 46. å…¨æ’åˆ— #å›æº¯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/26) - âœ…
+  - [leetcode 47.å…¨æ’åˆ— II #å›æº¯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/20) - âœ…
+  - [leetcode 784. å­—æ¯å¤§å°å†™å…¨æ’åˆ— #å›æº¯](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/39) - âœ…
+ * åŠ¨æ€è§„åˆ’
+    - [leetcode 5. æœ€é•¿å›æ–‡å­ä¸² #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/7) - âœ…
+    - [leetcode 42. æ¥é›¨æ°´ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/4) - âœ…
+    - [leetcode 62. ä¸åŒè·¯å¾„ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/34) - âœ…
+    - [leetcode 64. æœ€å°è·¯å¾„å’Œ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/28) - âœ…
+    - [leetcode 72. ç¼–è¾‘è·ç¦» #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/15) - âœ…
+    - [leetcode 122. ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº II #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/9) - âœ…
+    - [leetcode 123. ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº III #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/12) - âœ…
+    - [leetcode 139. å•è¯æ‹†åˆ† #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/16) - âœ…
+    - [leetcode 188. ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº IV #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/13) - âœ…
+    - [leetcode 198.æ‰“å®¶åŠ«èˆ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/11) - âœ…
+    - [leetcode 300.æœ€é•¿é€’å¢å­åºåˆ— #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/19) - âœ…
+    - [leetcode 309. æœ€ä½³ä¹°å–è‚¡ç¥¨æ—¶æœºå«å†·å†»æœŸ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/10) - âœ…
+    - [leetcode 312. æˆ³æ°”çƒ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/30) - âœ…
+    - [leetcode 322. é›¶é’±å…‘æ¢ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/29) - âœ…
+    - [leetcode 377. ç»„åˆæ€»å’Œ â…£ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/31) - âœ…
+    - [leetcode 413. ç­‰å·®æ•°åˆ—åˆ’åˆ† #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/32) - âœ…
+    - [leetcode 714. ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœºå«æ‰‹ç»­è´¹ #åŠ¨æ€è§„åˆ’](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/14) - âœ…
+* è´ªå¿ƒ
+  - [leetcode 1338. æ•°ç»„å¤§å°å‡åŠ #è´ªå¿ƒ](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/33) - âœ…
 
-#  ×¨Ìâ
+# ğŸš² ä¸“é¢˜
 
-- [1.Ê²Ã´ÊÇ¶ş²æÊ÷](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/1) -  - ÓÆÓÆ²èÃÒ
-- [2.¶ş²æÊ÷Êµ²Ù](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/2) - 
-- [3.¶ş²æÊ÷½ø½×](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/3) - 
+- [1.ä»€ä¹ˆæ˜¯äºŒå‰æ ‘](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/1) - âœ… - æ‚ æ‚ èŒ¶é¡ğŸš€
+- [2.äºŒå‰æ ‘å®æ“](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/2) - â
+- [3.äºŒå‰æ ‘è¿›é˜¶](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/3) - â
 
-# ¹±Ï×Õß
+# è´¡çŒ®è€…
 
-¸ĞĞ»ÒÔÏÂËùÓĞÅóÓÑ¶Ô±¾ÏîÄ¿µÄ¹±Ï×£¡
+æ„Ÿè°¢ä»¥ä¸‹æ‰€æœ‰æœ‹å‹å¯¹æœ¬é¡¹ç›®çš„è´¡çŒ®ï¼
 
-# ÔŞÖúÕß
+# èµåŠ©è€…
 
-¸ĞĞ»ÒÔÏÂ¸öÈË¡¢×éÖ¯¶Ô±¾ÏîÄ¿µÄÖ§³ÖºÍÔŞÖú£¡
+æ„Ÿè°¢ä»¥ä¸‹ä¸ªäººã€ç»„ç»‡å¯¹æœ¬é¡¹ç›®çš„æ”¯æŒå’ŒèµåŠ©ï¼
 
 > "You help the developer community practice for interviews, and there is nothing better we could ask for." -- Alan Yessenbayev
 
-# ÈÕÖ¾
+# æ—¥å¿—
 
-- LeetCodeÃ¿ÈÕÒ»ÌâÖÁissues - 
-- ²Ö¿â½¨Á¢ÓÚÅ©Àú4ÔÂ23ºÅ - 
-- ´´Ê¼ÈË[webVueBlog](https://github.com/webVueBlog)
+- LeetCodeæ¯æ—¥ä¸€é¢˜è‡³issues - âœ…
+- ä»“åº“å»ºç«‹äºå†œå†4æœˆ23å· - âœ…
+- åˆ›å§‹äºº[webVueBlog](https://github.com/webVueBlog) - âœ…
