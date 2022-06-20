@@ -45,7 +45,7 @@
 - [2022-06-18 剑指 Offer II 029.排序的循环链表👋链表](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/65)
 - [2022-06-19 508.出现次数最多的子树元素和👋树👋深度优先搜索👋哈希表👋二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/66)
 
-# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 题目💯
+# 🐬 题目💯
 
 * 栈
   - [leetcode 32. 最长有效括号 #栈](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/6) - ✅
@@ -91,7 +91,7 @@
 * 贪心
   - [leetcode 1338. 数组大小减半 #贪心](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/33) - ✅
 
-# <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'> 专题
+# 🚲 专题
 
 - [1.什么是二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/1) - ✅ - 悠悠茶靡🚀
 - [2.二叉树实操](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/2) - ❎
