@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'nice-js-leetcode',
 	description: 'nice-js-leetcode',
-	base: '/docs/',
+	base: '/nice-js-leetcode/',
 	theme: 'reco',
 	head: [
 		['meta', {
