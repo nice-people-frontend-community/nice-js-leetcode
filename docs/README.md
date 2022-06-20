@@ -23,7 +23,7 @@
 - 🙂 算法是我们的朋友，请爱惜！
 - 🌏 我们只有一个世界！
 
-# 本月每日一题
+# ⭐ 本月每日一题
 
 - [2022-06-01 473.火柴拼正方形👋位运算👋数组👋动态规划👋回溯👋状态压缩](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/41)
 - [2022-06-02 450.删除二叉搜索树中的节点👋树👋二叉搜索树👋二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/42)
@@ -111,4 +111,4 @@
 
 - LeetCode每日一题至issues - ✅
 - 仓库建立于农历4月23号 - ✅
-- 创始人[webVueBlog](https://github.com/webVueBlog)
+- 创始人[webVueBlog](https://github.com/webVueBlog) - ✅
