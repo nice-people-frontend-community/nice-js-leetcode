@@ -1,34 +1,25 @@
 {
-  "name": "nice-js-leetcode",
-  "version": "1.0.0",
-  "description": "nice-js-leetcode",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nice-people-frontend-community/nice-js-leetcode"
-  },
-  "keywords": [
-    "leetdatastructure,algorithm"
-  ],
-  "license": "Apache-2.0",
-  "dependencies": {
-    "@babel/core": "7.1.2",
-    "@babel/preset-env": "7.1.6",
-    "babel-core": "7.0.0-bridge.0",
-    "babel-jest": "^24.5.0",
-    "babel-preset-env": "1.7.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-jest": "22.0.0",
-    "jest": "^24.5.0",
-    "regenerator-runtime": "0.12.1",
-    "axios": "^0.26.1",
-    "nodemon": "^2.0.12",
-    "yargs": "^17.4.1"
-  },
-  "directories": {
-    "test": "test"
-  }
+	"name": "js-leetcode",
+	"version": "1.0.0",
+	"description": "js-leetcode",
+	"author": "Jeskson",
+	"license": "MIT",
+	"devDependencies": {
+		"vuepress": "^1.9.5",
+		"vuepress-plugin-dynamic-title": "^1.0.0"
+	},
+	"scripts": {
+		"serve": "vuepress dev docs --temp .temp",
+		"build": "vuepress build docs"
+	},
+	"dependencies": {
+		"@vuepress-reco/vuepress-plugin-back-to-top": "^1.6.0",
+		"@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.5.7",
+		"@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+		"@vuepress-reco/vuepress-plugin-loading-page": "^1.4.0",
+		"@vuepress-reco/vuepress-plugin-screenfull": "^1.0.1",
+		"vuepress-plugin-code-copy": "^1.0.6",
+		"vuepress-plugin-posts-encrypt": "^0.0.6",
+		"vuepress-theme-reco": "^1.6.10"
+	}
 }
