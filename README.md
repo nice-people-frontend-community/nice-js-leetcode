@@ -44,7 +44,7 @@
 - [2022-06-17 1089.复写零👋数组👋双指针](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/64)
 - [2022-06-18 剑指 Offer II 029.排序的循环链表👋链表](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/65)
 - [2022-06-19 508.出现次数最多的子树元素和👋树👋深度优先搜索👋哈希表👋二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/66)
-
+- [2022-06-20 715.Range 模块👋设计👋线段树👋有序集合](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/67)
 # 🐬 题目💯
 
 * 栈
