@@ -1,6 +1,6 @@
 # nice-js-leetcode
 
-> 点击勘误[issues]()，感谢大家的阅读
+> 点击勘误[issues](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues)，感谢大家的阅读
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> nice-js-leetcode  🎉🎉🎉  Please share
 
