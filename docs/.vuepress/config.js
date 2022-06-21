@@ -122,8 +122,11 @@ module.exports = {
 				path: '/handbook/1-two-sum',
 				collapsable: false, // 不折叠
 				children: [{
-					title: "1-two-sum",
-					path: "/handbook/1-two-sum"
+					title: "1. 两数之和",
+					path: "/handbook/1"
+				},{
+					title: "3. 无重复字符的最长子串",
+					path: "/handbook/3"
 				},{
 					title: "密码",
 					path: "/handbook/role"
