@@ -48,6 +48,10 @@
 - [2022-06-21 1108. IP 地址无效化👋字符串](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/72)
 - [2022-06-22 513. 找树左下角的值👋树👋深度优先搜索👋广度优先搜索👋二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/75)
 - [2022-06-23 30. 串联所有单词的子串👋哈希表👋字符串👋滑动窗口](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/77)
+- [2022-06-24 515.在每个树行中找最大值👋树👋深度优先搜索👋广度优先搜索👋二叉树](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/78)
+- [2022-06-25 剑指 Offer II 091.粉刷房子👋数组👋动态规划](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/79)
+- [2022-06-26 710.黑名单中的随机数👋哈希表👋数学👋二分查找👋排序👋随机化](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/80)
+- [2022-06-27 522.最长特殊序列 II👋数组👋哈希表👋双指针👋字符串👋排序](https://github.com/nice-people-frontend-community/nice-js-leetcode/issues/81)
 
 # 🐬 题目💯
 
