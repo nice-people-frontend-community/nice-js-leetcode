@@ -119,14 +119,20 @@ module.exports = {
 			},
 			{
 				title: "leetcode",
-				path: '/handbook/1-two-sum',
+				path: '/handbook/1',
 				collapsable: false, // 不折叠
 				children: [{
-					title: "1. 两数之和",
+					title: "1\. Two Sum",
 					path: "/handbook/1"
 				},{
-					title: "3. 无重复字符的最长子串",
+					title: "2\. Add Two Numbers",
+					path: "/handbook/2"
+				},{
+					title: "3\. Longest Substring Without Repeating Characters",
 					path: "/handbook/3"
+				},{
+					title: "4\. Median of Two Sorted Arrays",
+					path: "/handbook/4"
 				},{
 					title: "密码",
 					path: "/handbook/role"
