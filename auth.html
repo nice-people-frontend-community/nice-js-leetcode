@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- do not cache this page -->
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <title>密码验证</title>
+    <!-- iview css -->
+    <link rel="stylesheet" type="text/css" href="//unpkg.com/view-design@4.7.0/dist/styles/iview.css" />
+    <!-- animate css -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!-- user css -->
+    <style type="text/css">#app,.content-wrapper,body,html{height:100%;max-height:100%;overflow:hidden}.content-wrapper{background:url('data:image/svg+xml;base64,PHN2ZwogIHZlcnNpb249IjEuMSIKICBiYXNlUHJvZmlsZT0iZnVsbCIKICB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIgogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB2aWV3Qm94PSIwIDAgMTQwMCA4MDAiCj4KCiAgPHJlY3QgeD0iMTMwMCIgeT0iNDAwIiByeD0iNDAiIHJ5PSI0MCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIHN0cm9rZT0icmdiKDEyOSwgMjAxLCAxNDkpIiBmaWxsPSJyZ2IoMTI5LCAyMDEsIDE0OSkiPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlVHlwZT0iWE1MIiBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIGJlZ2luPSIwcyIgZHVyPSIzNXMiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCAxNDUwIDU1MCIgdG89IjM2MCAxNDUwIDU1MCIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9yZWN0PgoKICA8cGF0aCBkPSJNIDEwMCAzNTAgQSAxNTAgMTUwIDAgMSAxIDQwMCAzNTAgUTQwMCAzNzAgMzgwIDM3MCBMIDI1MCAzNzAgTCAxMjAgMzcwIFExMDAgMzcwIDEwMCAzNTAiIHN0cm9rZT0icmdiKDI1MywgMjE0LCA5OSkiIGZpbGw9InJnYigyNTMsIDIxNCwgOTkpIj4KICAgIDxhbmltYXRlTW90aW9uIHBhdGg9Ik0gODAwIC0yMDAgTCA4MDAgLTMwMCBMIDgwMCAtMjAwIiBkdXI9IjIwcyIgYmVnaW49IjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZVR5cGU9IlhNTCIgYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBiZWdpbj0iMHMiIGR1cj0iMzBzIiB0eXBlPSJyb3RhdGUiIHZhbHVlcz0iMCAyMTAgNTMwIDsgLTMwIDIxMCA1MzAgOyAwIDIxMCA1MzAiIGtleVRpbWVzPSIwIDsgMC41IDsgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgoKICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSIxNTAiIHI9IjIwIiBzdHJva2U9IiMxYTczZTgiIGZpbGw9IiMxYTczZTgiPgogICAgPGFuaW1hdGVNb3Rpb24gcGF0aD0iTSAwIDAgTCA0MCAyMCBaIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KCiAgPCEtLSDkuInop5LlvaIgLS0+CiAgPHBhdGggZD0iTSAxNjUgNTgwIEwgMjcwIDU4MCBRMjc1IDU3OCAyNzAgNTcwIEwgMjIzIDQ4MyBRMjIwIDQ4MCAyMTcgNDgzIEwgMTY1IDU3MCBRMTYwIDU3OCAxNjUgNTgwIiBzdHJva2U9InJnYigyMzgsIDEwMywgOTIpIiBmaWxsPSJyZ2IoMjM4LCAxMDMsIDkyKSI+CiAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVUeXBlPSJYTUwiIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgYmVnaW49IjBzIiBkdXI9IjM1cyIgdHlwZT0icm90YXRlIiBmcm9tPSIwIDIxMCA1MzAiIHRvPSIzNjAgMjEwIDUzMCIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgoKICA8Y2lyY2xlIGN4PSIxMjAwIiBjeT0iNjAwIiByPSIzMCIgc3Ryb2tlPSJyZ2IoMjQxLCAyNDMsIDI0NCkiIGZpbGw9InJnYigyNDEsIDI0MywgMjQ0KSI+CiAgICA8YW5pbWF0ZU1vdGlvbiBwYXRoPSJNIDAgMCBMIC0yMCA0MCBaIiBkdXI9IjlzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KCiAgPHBhdGggZD0iTSAxMDAgMzUwIEEgNDAgNDAgMCAxIDEgMTgwIDM1MCBMIDE4MCA0MzAgQSA0MCA0MCAwIDEgMSAxMDAgNDMwIFoiIHN0cm9rZT0icmdiKDI0MSwgMjQzLCAyNDQpIiBmaWxsPSJyZ2IoMjQxLCAyNDMsIDI0NCkiPgogICAgPGFuaW1hdGVNb3Rpb24gcGF0aD0iTSAxNDAgMzkwIEwgMTgwIDM2MCBMIDE0MCAzOTAiIGR1cj0iMjBzIiBiZWdpbj0iMHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlVHlwZT0iWE1MIiBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIGJlZ2luPSIwcyIgZHVyPSIzMHMiIHR5cGU9InJvdGF0ZSIgdmFsdWVzPSIwIDE0MCAzOTA7IC02MCAxNDAgMzkwOyAwIDE0MCAzOTAiIGtleVRpbWVzPSIwIDsgMC41IDsgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgoKICA8cmVjdCB4PSI0MDAiIHk9IjYwMCIgcng9IjQwIiByeT0iNDAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHJva2U9InJnYigxMjksIDIwMSwgMTQ5KSIgZmlsbD0icmdiKDEyOSwgMjAxLCAxNDkpIj4KICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZVR5cGU9IlhNTCIgYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBiZWdpbj0iMHMiIGR1cj0iMzVzIiB0eXBlPSJyb3RhdGUiIGZyb209Ii0zMCA1NTAgNzUwIiB0bz0iMzMwIDU1MCA3NTAiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvcmVjdD4KPC9zdmc+Cg==') center center/cover no-repeat;display:flex;flex-direction:column;justify-content:flex-start;align-items:center}.content-wrapper #header{flex-basis:30%;width:500px;position:relative}.content-wrapper #body{flex-basis:50%}.content-wrapper #body .center{width:30rem;padding:6rem 3rem;box-sizing:border-box;background-color:#fefefe;backdrop-filter:sepia(0.4);border-radius:10px;box-shadow:0 0 300px #c5c8ce}@media (max-width:719px){.content-wrapper #body .center{width:20rem;padding:3rem 2rem}}.content-wrapper #footer .svg-wrapper{height:60px;margin:0 auto;position:relative;top:50%;transform:translateY(-50%);width:320px}.content-wrapper #footer .svg-wrapper:hover .shape{-webkit-animation:.5s draw linear forwards;animation:.5s draw linear forwards}.content-wrapper #footer .shape{fill:transparent;stroke-dasharray:140 540;stroke-dashoffset:-474;stroke-width:8px;stroke:#19be6b}.content-wrapper #footer .text{color:#808695;font-size:14px;font-weight:700;text-align:center;position:relative;top:-48px}.content-wrapper #footer .text a{text-decoration:none}@keyframes draw{0%{stroke-dasharray:140 540;stroke-dashoffset:-474;stroke-width:8px}100%{stroke-dasharray:760;stroke-dashoffset:0;stroke-width:2px}}#header .hexagon{position:absolute;background-color:#f91528;text-align:center;top:70%;left:280px;z-index:1;animation-duration:.96s;animation-name:updownR}#header .hexagon.dude,#header .hexagon.dude::after,#header .hexagon.dude::before{width:32px;height:53px;border-width:2px 0 2px 0;border-style:solid}#header .hexagon::before{background-color:inherit;content:'';position:absolute;transform:translateY(-2px) rotate(-60deg);z-index:1;top:0;left:0;border-color:inherit}#header .hexagon::after{background-color:inherit;content:'';position:absolute;transform:translateY(-2px) rotate(60deg);z-index:-1;top:0;left:0;border-color:inherit}#header .box{top:57%;left:180px;position:absolute;width:27px;height:23px;background-color:#f2600c;z-index:0;border-color:#4c4c4c;animation-duration:1.44s;animation-name:updownO}#header .box .face{width:16px;height:0;border-bottom:3px solid;position:absolute;z-index:5;top:11px;left:32px;border-color:inherit}#header .box:before{width:16px;height:23px;position:absolute;content:'';top:-2px;right:-16px;background:inherit;border:inherit}#header .box .face:after,#header .box .face:before{content:'';position:absolute;width:0;height:0;border:2px solid;border-radius:50%;top:-6px;border-color:inherit}#header .box .face:before{left:-4px}#header .box .face:after{left:3px}#header .dude{position:absolute;border:2px solid;padding:0;z-index:2;border-top-color:#333;border-bottom-color:#333;border-right-color:#333;border-left-color:#333;animation-iteration-count:infinite;animation-timing-function:linear}#header .rectangle{top:88%;left:80px;width:21px;height:12px;background:#41d641;animation-duration:.48s;animation-name:updownG}#header .rectangle .face{position:absolute;top:7px;left:18px;border-top:3px solid;height:0;width:12px;border-color:inherit}#header .rectangle .face:after{position:absolute;content:'';border-top:2px solid;border-left:2px solid;width:1px;height:1px;border-color:inherit;top:-8px;left:-1px}#header .circle.dude{top:80%;left:0;width:18px;height:18px;border-radius:50%;background:#41b6f0;animation-duration:.24s;animation-name:updownB}#header .circle .face{position:absolute;left:16px;top:8px;width:17px;border-top:2px solid;border-color:inherit;z-index:7}#header .circle .face:after{border-top:2px solid;border-color:inherit;width:17px;top:-1px;content:'';position:absolute;transform-origin:0 0;transform:rotateZ(8deg)}#header .circle .face:before{position:absolute;content:'';border-top:2px solid;border-left:2px solid;width:1px;height:1px;border-color:inherit;top:-7px;left:-4px;border-radius:50%}#header .hexagon .face{position:absolute;border-top:3px solid;border-color:inherit;left:8px;top:8px;width:26px;z-index:2}#header .hexagon .face:after{position:absolute;content:'';border-width:0 3px 3px 0;border-style:solid;border-color:inherit;width:8px;height:21px;left:12px;transform:skewX(11deg)}@keyframes updownR{0%{transform:translateY(0);animation-timing-function:cubic-bezier(0,0.5,0.5,1)}50%{transform:translateY(-96px);animation-timing-function:cubic-bezier(0.5,0,1,0.5)}}@keyframes updownO{0%{transform:translateY(0);animation-timing-function:cubic-bezier(0.585,0.24,0.865,0.445)}25%{transform:translateY(75px) rotateZ(90deg);animation-timing-function:cubic-bezier(0.07,0.405,0.4,0.82)}50%{transform:translateY(0) rotateZ(180deg);animation-timing-function:cubic-bezier(0.585,0.24,0.865,0.445)}75%{transform:translateY(75px) rotateZ(270deg);animation-timing-function:cubic-bezier(0.07,0.405,0.4,0.82)}100%{transform:translateY(0) rotateZ(360deg);animation-timing-function:cubic-bezier(0.585,0.24,0.865,0.445)}}@keyframes updownG{0%{transform:translateY(0) skewX(-25deg) scale(.8,1.8);animation-timing-function:cubic-bezier(0,0.5,0.5,1)}50%{transform:translateY(-50px);animation-timing-function:cubic-bezier(0.5,0,1,0.5)}100%{transform:translateY(0) skewX(25deg) scale(.8,1.8)}}@keyframes updownB{0%{transform:translateY(0);animation-timing-function:cubic-bezier(0.5,0,1,0.5)}50%{transform:translateY(25px) scale(1.2,1);animation-timing-function:cubic-bezier(0,0.5,0.5,1)}100%{transform:translateY(0)}}</style>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/vue@2.6.14"></script>
+    <!-- iview js -->
+    <script type="text/javascript" src="//unpkg.com/view-design@4.7.0/dist/iview.min.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div class="content-wrapper">
+        <div id="header">
+          <div class="hexagon dude">
+            <div class="face"></div>
+           </div> 
+           <div class="box dude">
+            <div class="face"></div>
+           </div> 
+           <div class="rectangle dude">
+            <div class="face"></div>
+           </div> 
+           <div class="circle dude">
+            <div class="face"></div>
+           </div>
+        </div>
+        <div id="body">
+          <div ref="formRef" :class="'center ' + lockClass" >
+            <i-form @submit.native.prevent ref="formInline" :model="formInline" :rules="ruleInline">
+              <Row type="flex" justify="center" align="top" style="margin-bottom: 20px;">
+                <i-col><Icon type="md-lock" size="60"/></i-col>
+              </Row>
+              <form-item prop="password">
+                <i-input 
+                  password
+                  size="large" 
+                  type="password"
+                  @on-enter="() => handleSubmit()"
+                  v-model="formInline.password" 
+                  placeholder="口令">
+                </i-input>
+              </form-item>
+            </i-form>
+          </div>
+        </div>
+        <div id="footer">
+          <div class="svg-wrapper">
+            <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
+              <rect class="shape" height="60" width="320" />
+            </svg>
+            <div class="text">
+              <span>Generated by </span><a href="https://github.com/alphawq/vuepress-plugin-posts-encrypt">@vuepress-plugin-posts-encrypt</a></div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- crypto js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js" integrity="sha512-E8QSvWZ0eCLGk4km3hxSsNmGWbLtSCSUcewDQPQWZF6pEU8GlT8a5fF32wOl1i8ftdMhssTrF/OhyGWwonTcXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- validate js-->
+    <script>const e=256,t=1e3,a=(t=500)=>new Promise(e=>setTimeout(e,t)),s=(()=>{const e=location.search,t=e?e.slice(1).split("&").reduce((e,t)=>{var[t,a]=t.split("=");return e[t]=decodeURIComponent(a),e},{}):{};return e=>t[e]})(),n=(t,a,n)=>{try{let e=JSON.parse(localStorage.getItem(t))||{};var s={value:"",expires:0,startTime:(new Date).getTime()};e[a]=Object.assign(s,n),localStorage.setItem(t,JSON.stringify(e))}catch(e){console.error(e)}};function i(e){var t=new RegExp(s("redirect")+"_([^;]*)"),t="v-70f1490a_22087305eb36def3db431d4f7c3edec738a82bd4c8ce7ce58a27c3b9df170f1a54c1c8405fa795166d0be61fcafd2fe848abc411671ab9edf763d73c919a4a74ls2NpZLyqvYb2DBTrbsY+g==".match(t);if(!t)return!1;const a=t[1];var t=a.substring(0,64),n=a.substring(64);return CryptoJS.HmacSHA256(n,CryptoJS.SHA256(e).toString()).toString()===t}new Vue({el:"#app",data(){return{btnLoading:!1,lockClass:"",offListener:null,modal_loading:!1,formInline:{password:""},ruleInline:{password:[{validator:this.validatePass,trigger:"blur"}]}}},mounted(){this.offListener=this.bindListener("formRef",this.changeLockClass.bind(this,""))},unmounted(){this.offListener()},methods:{toggleBool(e){this[e]=!this[e]},bindListener(e,t){let a=this.$refs[e].$el||this.$refs[e],n=e=>{t.call(this,e)};return a&&a.addEventListener("animationend",n),()=>a.removeEventListener("animationend",n)},changeLockClass(e,t){this.lockClass=e},validatePass(e,t,a){if(!i(t))return a(new Error("Not Correct!"));a()},handleSubmit(e="formInline"){""!==this.formInline.password&&(this.toggleBool("btnLoading"),this.$refs[e].validate(async e=>{await a(),this.toggleBool("btnLoading"),e?(n("__vuepress_posts_encrypt_plugin__",s("redirect"),{value:!0,expires:6e4}),this.changeLockClass("animate__animated animate__hinge"),await a(1e3),location.replace("/nice-js-leetcode"+s("path"))):this.changeLockClass("animate__animated animate__headShake")}))}}});</script>
+  </body>
+</html>
